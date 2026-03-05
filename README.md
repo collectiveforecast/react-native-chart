@@ -13,7 +13,7 @@ Supports:
 ## Installation
 
 ```bash
-npm i @cofo/react-native-chart
+npm i @collective-forecast/react-native-chart
 ```
 
 Install peer dependencies (if not already in your app):
