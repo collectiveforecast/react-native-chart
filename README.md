@@ -1,4 +1,4 @@
-# @cofo/react-native-chart
+# @collective-forecast/react-native-chart
 
 Interactive, high-performance React Native financial chart built with Skia, Reanimated, and Gesture Handler.
 

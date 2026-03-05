@@ -1,6 +1,6 @@
 {
-  "name": "@cofo/react-native-chart",
-  "version": "1.0.0",
+  "name": "@collective-forecast/react-native-chart",
+  "version": "1.0.1",
   "description": "High-performance interactive financial charts for React Native with Skia and Reanimated",
   "keywords": [
     "react-native",
