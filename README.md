@@ -22,6 +22,9 @@ Install peer dependencies (if not already in your app):
 npm i @shopify/react-native-skia react-native-reanimated react-native-gesture-handler react-native-svg react-native-worklets
 ```
 
+## Example
+![Chart preview](https://raw.githubusercontent.com/collectiveforecast/react-native-chart/refs/heads/main/assets/chart-indicator.png)
+
 ## React Native setup
 
 This package relies on native libraries. Make sure your app is configured for:
